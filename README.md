@@ -10,5 +10,7 @@ Created in Swift using MVC architecture.
 - Features alternating timer system, customizable time, clock reset, and thematic background
 
 
-![alt tag](https://github.com/Aaron09/Chess-Clock-iOS-App/blob/master/chessClockScreenshot.png)
+![alt tag](https://github.com/Aaron09/Chess-Clock-iOS-App/blob/master/images/chessClockScreenshot.png)
+![alt tag](https://github.com/Aaron09/Chess-Clock-iOS-App/blob/master/images/chessClockCountingDownScreenshot.png)
+![alt tag](https://github.com/Aaron09/Chess-Clock-iOS-App/blob/master/images/chessClockSetTimerScreenshot.png)
 
